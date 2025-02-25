@@ -15,8 +15,8 @@ import shutil
 
 # Default XNAT configuration
 DEFAULT_SERVER = "https://xnat.abudhabi.nyu.edu"
-DEFAULT_TOKEN = "656059bb-0b85-4c5d-8deb-4a7c397a7ba0"
-DEFAULT_SECRET = "9ZjS8KoLRPfvYHInjMcU13w9FdLWkMjU7h0MNf5u8r8rhJLNZpg0xDNg6OSIsddM"
+DEFAULT_TOKEN = "<paste your token alias here>"
+DEFAULT_SECRET = "<paste your token secret here>"
 PROJECT_ID = "rokerslab_ari-clean"  # Default project ID required
 
 def setup_connection(server, username, password):
