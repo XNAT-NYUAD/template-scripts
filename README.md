@@ -4,11 +4,8 @@ This repository contains simple, single-purpose template scripts for working wit
 
 ## One-Time Setup
 
-1. Install Miniconda (if you haven't already):
-   ```bash
-   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-   bash Miniconda3-latest-Linux-x86_64.sh
-   ```
+1. Install Miniconda (if you haven't already): https://docs.anaconda.com/miniconda/install/
+  
 
 2. Create and activate an environment with the XNAT package:
    ```bash
